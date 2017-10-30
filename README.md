@@ -1,3 +1,2 @@
 # react-test
-Do not do it!!!!
-But if you do, don't cry
+Test react like a pro version 0.1
